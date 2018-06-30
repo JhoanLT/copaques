@@ -1,0 +1,13 @@
+{
+    "name": "jhoan/copaques",
+    "description": "App para manejos de inventario y datos atraves de archivos excel",
+    "authors": [
+        {
+            "name": "JhoanLT",
+            "email": "jhoanlt19@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.3"
+    }
+}
